@@ -2,6 +2,7 @@ Hubbub
 ======
 
 Issues get messy, Hubbub keeps you organized.
+Quick, useless edit.
 
 [Demo](http://backstopmedia.github.com/hubbub) • [Test Suite](http://backstopmedia.github.com/hubbub/test)
 
